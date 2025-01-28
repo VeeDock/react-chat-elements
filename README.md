@@ -8,6 +8,10 @@
 
 ## **[Full Documentation](https://detaysoft.github.io/docs-react-chat-elements/)**, **[Changelog](https://github.com/Detaysoft/react-chat-elements/blob/master/CHANGELOG.md)**
 
+Forked project and modified it for React 19 support
+
+[Original](https://github.com/Detaysoft/react-chat-elements)
+
 ## Install
 
 ```
