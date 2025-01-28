@@ -1,6 +1,6 @@
 {
   "name": "react-chat-constructor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Reactjs chat components for react 19+",
   "author": "VDV <nnnefedoff@gmail.com>",
   "main": "dist/main.js",
@@ -46,7 +46,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/detaysoft/react-chat-elements.git"
+    "url": "git+https://github.com/VeeDock/react-chat-elements.git"
   },
   "keywords": [
     "react",
@@ -67,9 +67,9 @@
     "[module-name]": false
   },
   "bugs": {
-    "url": "https://github.com/detaysoft/react-chat-elements/issues"
+    "url": "https://github.com/VeeDock/react-chat-elements/issues"
   },
-  "homepage": "https://github.com/detaysoft/react-chat-elements#readme",
+  "homepage": "https://github.com/VeeDock/react-chat-elements#readme",
   "scripts": {
     "dev-server": "webpack-dev-server --config webpack.dev.config.js",
     "build": "yarn run clear:build && node node_modules/typescript/bin/tsc -p tsconfig.prod.json && yarn run copy-files",
