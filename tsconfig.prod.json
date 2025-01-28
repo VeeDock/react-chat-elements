@@ -7,7 +7,6 @@
       "esnext"
     ],
     "removeComments": true,
-    "suppressImplicitAnyIndexErrors": true,
     "noUnusedLocals": true,
     "declaration": false,
     "experimentalDecorators": true,
