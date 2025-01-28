@@ -1,6 +1,6 @@
 {
   "name": "react-chat-constructor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Reactjs chat components for react 19+",
   "author": "VDV <nnnefedoff@gmail.com>",
   "main": "dist/main.js",
@@ -82,8 +82,8 @@
     "prepare": "npm run build:lib"
   },
   "peerDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "18.2.0"
+    "react": "^19.0.0",
+    "react-dom": "19.0.0"
   },
   "dependencies": {
     "classnames": "^2.5.1",
