@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {JSX} from 'react'
 
 /**
  * IChatItemProps Interface
@@ -1115,7 +1115,7 @@ export class MessageList extends React.Component<IMessageListProps> {}
 export class Popup extends React.Component<IPopupProps> {}
 export class Avatar extends React.Component<IAvatarProps> {}
 export class Button extends React.Component<IButtonProps> {}
-export class Sidebar extends React.Component<ISideBar> {}
+export class Sidebar extends React.Component<ISideBarProps> {}
 export class Navbar extends React.Component<INavbarProps> {}
 export class Input extends React.Component<IInputProps> {}
 export class Dropdown extends React.Component<IDropdownProps> {}
